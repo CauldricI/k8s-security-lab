@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Reports
+*.json
+*.csv
+*.sarif
+
+# Docker
+*.tar
+
+# Editor/OS
+.DS_Store
